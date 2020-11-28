@@ -6,12 +6,15 @@ import yemenbannermobile from '../assests/yemenbannermobile.jpg';
 function Banner() {
     
     return (
-        <div className="App">
-            <div className="App-content">
-                <h1>Yemen Crisis</h1>
+        <div className="hero">
+        <div className="container">
+                <div className="content">
+                    <h1>YemenCrisis</h1>
+                    </div>
                 
             </div>
-        </div>
+            </div>
+        
     );
   }
   
