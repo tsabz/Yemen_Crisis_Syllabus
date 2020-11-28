@@ -1,9 +1,11 @@
 import './App.css';
+import Banner from './components/Banner.js'
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Yemen Crisis</h1>
+      <Banner />
     </div>
   );
 }
