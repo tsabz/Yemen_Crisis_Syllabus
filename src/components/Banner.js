@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import './Banner.css';
-import Yemenbanner from '../assests/yemenbanner.jpg';
-import yemenbannermobile from '../assests/yemenbannermobile.jpg';
 
 function Banner() {
     
